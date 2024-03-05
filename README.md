@@ -1,7 +1,7 @@
 # Eiga
 ![Eiga](https://github.com/sagar-2709/Eiga/assets/97290356/2e864b4d-b7fd-4d8e-b6fe-7ee8d06ab886)
 
-# Movie website
+# Movie downloading website
 
 
 Welcome to Eiga, your go-to platform for movie enthusiasts to discover, download, and keep track of their favorite movies .
